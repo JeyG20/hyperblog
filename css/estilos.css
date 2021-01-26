@@ -7,15 +7,6 @@ body
     font-size: 15px;
 }
 
-#header
-{   
-    background-color: rgb(86, 0, 156);      
-    box-shadow: 0px 7px 15px 0px rgba(0, 0, 0, 0.5);
-    color: rgba(255, 255, 255, 0.88);
-    padding: 0.5em;
-    margin: 0;
-}
-
 #content
 {
     margin: 0% 3% 3% 2%;
@@ -23,23 +14,6 @@ body
     max-width: 100%;
     padding: 1.5%;
     
-}
-
-#fotter
-{  
-    max-width: 100%;
-    color: rgb(0, 119, 255);
-    font-size: 0.7em;
-    font-weight: bold;
-    text-align: center;
-    padding: 0.4%;
-    background-color: rgba(16, 80, 255, 0.3); 
-}
-#fotter_text
-{
-    padding: 0 0 0 1em;
-    font-weight: normal;
-    font-size: 0.8em;
 }
 
 #container
