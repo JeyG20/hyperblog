@@ -30,8 +30,18 @@ body
     background-color: blue;
     
 }
-#fotter
+footer
 {
-    
+    font-weight: bold;
+    font-size: 1.15em;
+    text-align: center;
+    padding: 0.4%;
+    background-color: rgba(16, 80, 255, 0.09); 
+}
+footer #link
+{
+    text-decoration: none;
+    color: rgb(54, 1, 139);
+    padding: 0 0 0 1em;
 }
 
