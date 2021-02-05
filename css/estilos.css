@@ -34,12 +34,13 @@ footer
     font-weight: bold;
     font-size: 1.15em;
     border-radius: 20px;
-    background-color: #46077afd;
+    height: auto;
+    background-color: #56009c;      
 }
 footer #link
 {
-    
+    margin: 20% 0 20% 0;  
     text-decoration: none;
-    color: black;
+    color: white;
 }
 
