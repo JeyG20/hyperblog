@@ -1,7 +1,6 @@
 body
 {
     color: #333;
-    text-align: center;
     font-family: "Arial";
     font-size: 16px;
     margin: 0;
@@ -11,7 +10,6 @@ body
 {
     width: 70%;
     padding: 1em;
-    text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
 }
@@ -27,21 +25,21 @@ body
     border-left-width: 10;
     color: white;
     font-weight: bold;
-    background-color: blue;
+    background-color: #0000ff;
     
 }
 footer
 {
+    text-align: center;
     font-weight: bold;
     font-size: 1.15em;
-    text-align: center;
-    padding: 0.4%;
-    background-color: rgba(16, 80, 255, 0.09); 
+    border-radius: 20px;
+    background-color: #46077afd;
 }
 footer #link
 {
+    
     text-decoration: none;
-    color: rgb(54, 1, 139);
-    padding: 0 0 0 1em;
+    color: black;
 }
 
