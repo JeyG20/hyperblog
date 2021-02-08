@@ -61,9 +61,14 @@ body
     
 }
 
-#animes 
+#animeImg 
 {
-    width: 90%;
+    width: 70%;
+}
+
+#gitImg
+{
+    width: 30%;
 }
 
 body > footer
