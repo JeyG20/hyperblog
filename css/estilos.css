@@ -1,9 +1,6 @@
 body
 {
-<<<<<<< HEAD
-=======
     color: #333;
->>>>>>> footer
     font-family: "Arial";
     text-align: center;
     margin: 0;
@@ -13,14 +10,9 @@ body
 
 #container
 {
-<<<<<<< HEAD
     width: 80%;
     padding: 0;
     text-align: left;
-=======
-    width: 70%;
-    padding: 1em;
->>>>>>> footer
     border: 1px solid #DDD;
     margin: 0 auto;
     background-color: rgba(63, 143, 235, 0.06);
@@ -45,7 +37,6 @@ body
 
 #header #tagline
 {
-<<<<<<< HEAD
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
@@ -62,30 +53,37 @@ body
 #content > h1
 {
     font-size: 1.5em;
-=======
-    width: 500px;
+    width: auto;
     margin: 0;
     border-left-width: 10;
-    color: white;
+    color: black;
     font-weight: bold;
-    background-color: #0000ff;
     
 }
-footer
+
+#animes 
 {
+    width: 90%;
+}
+
+body > footer
+{
+    width: 80%;
     text-align: center;
     font-weight: bold;
+    margin: auto;
+    padding-top: -50%;
+    padding:auto;
     font-size: 1.15em;
     border-radius: 20px;
     height: auto;
-    background-color: #56009c;      
+    background-color: #6a00c0;  
+    box-shadow: 0px 7px 15px 0px rgba(0, 0, 0, 0.5);    
 }
 footer #link
 {
-    margin: 20% 0 20% 0;  
     text-decoration: none;
     color: white;
->>>>>>> footer
 }
 
 
