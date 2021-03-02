@@ -60,6 +60,12 @@ body
     font-weight: bold;
     
 }
+#content > img 
+{
+    display: block;
+    margin-left: 7%;
+    margin-right: auto;
+}
 
 #animeImg 
 {
